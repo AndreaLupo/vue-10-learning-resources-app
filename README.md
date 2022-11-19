@@ -7,3 +7,4 @@ In this project we have:
 - dynamic components for tabber
 - communicate through dynamic components with provide/inject
 - create a full-managed custom dialog with slots and events <==== WOW!
+- teleport the dialog
